@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Siema Stefan i Mariola!\n";
+    std::cout << "Siema Stefan i Mariola!" << std::endl;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
