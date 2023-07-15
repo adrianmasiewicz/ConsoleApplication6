@@ -3,9 +3,11 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Siema Stefan i Mariola!" << std::endl;
+    cout << "Siema Stefan i Mariola!" << std;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
