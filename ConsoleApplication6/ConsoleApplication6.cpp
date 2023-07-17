@@ -3,10 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "hhh!\n";
-    
+    cout << "Siema Stefan i Mariola!" << endl;
+    cout << "druga linijka" << endl;
+
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
