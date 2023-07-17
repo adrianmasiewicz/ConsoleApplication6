@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Siema Stefan i Mariola!" << std;
+    cout << "Siema Stefan i Mariola!" << endl;
+    cout << "druga linijka" << endl;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
